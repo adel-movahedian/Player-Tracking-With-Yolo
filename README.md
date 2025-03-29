@@ -18,9 +18,6 @@ This project implements a tracking model for sports videos using the SportsMOT d
 ## Dataset
 The **SportsMOT** dataset is used for training and evaluation. It consists of annotated sports footage with labeled player and ball positions.
 
-
-```
-
 ## Results
 Sample outputs, including detection and tracking visualizations, can be found in the `phase 2 sample outputs/` directory.
 
